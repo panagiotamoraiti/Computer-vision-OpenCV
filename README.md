@@ -37,4 +37,6 @@ of multi-class classification.
 As part of the work, two architectures are implemented:
   1. A NON-pre-trained network which is created exclusively for the current one classification problem.
   3. A pre-trained network. ResNet 50 is used.
-
+  
+ Best models and datasets can be found following the link: 
+ https://drive.google.com/drive/folders/1nCnI0R7ONX1QePdz0qL76360luyyLpKu?usp=sharing 
