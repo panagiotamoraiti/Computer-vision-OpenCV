@@ -52,9 +52,6 @@ of multi-class classification. [BelgiumTS Dataset](https://btsd.ethz.ch/sharedda
 As part of the work, two architectures are implemented:
   1. A NON-pre-trained network which is created exclusively for the current one classification problem.
   3. A pre-trained network. ResNet 50 is used.
-  
- Best models and datasets can be found following the link: 
- https://drive.google.com/drive/folders/1nCnI0R7ONX1QePdz0qL76360luyyLpKu?usp=sharing 
 
 <p align="center">
   <img src="https://github.com/panagiotamoraiti/Computer-vision-OpenCV/assets/72858165/a0d4ad4d-2fd4-448c-92d4-a38adf0efd1b" />
