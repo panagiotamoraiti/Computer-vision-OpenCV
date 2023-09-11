@@ -29,7 +29,7 @@ We use SIFT, SURF and Image Composite Editor, in order to compare the results.
 </p>
 
 ## Project 3
-We use OpenCV library, in order to solve a multi-class classification problem. 
+We use OpenCV library, in order to solve a multi-class classification problem. [Caltech 256 Image Dataset](https://www.kaggle.com/datasets/jessicali9530/caltech256)
 
 The program is implemented by performing the following steps:
 1. Visual vocabulary production based on the Bag of Visual Words model (BOVW). 
@@ -47,7 +47,8 @@ as the percentage of successful classifications, overall and by class.
 
 ## Project 4
 We implement a convolutional network architecture in Python using the Keras Tensorflow library, which will address the problem 
-of multi-class classification.
+of multi-class classification. [BelgiumTS Dataset](https://btsd.ethz.ch/shareddata/)
+
 As part of the work, two architectures are implemented:
   1. A NON-pre-trained network which is created exclusively for the current one classification problem.
   3. A pre-trained network. ResNet 50 is used.
